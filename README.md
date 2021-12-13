@@ -6,5 +6,3 @@
 Meanwhile I'm finishing my second B.Sc. in Industrial Engineering at Universidade Federal Fluminence
 
 [LinkedIn](https://www.linkedin.com/in/leomar-santana-da-silva-5b877982/)
----
-ps: have you noticed that the Octocat icon is some kind of bat-signal for developers?
